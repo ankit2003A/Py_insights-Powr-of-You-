@@ -70,22 +70,12 @@ Made interactive charts using **Plotly**:
 
 ## 🧰 **Technologies Used**
 - 🐍 **Python**: `Pandas`, `Plotly`, `tldextract`  
-- ☁️ **Google Colab**: For coding & visualization  
-- 📊 **Power BI** *(optional)*: For dashboard integration  
+- ☁️ **Google Colab**: For coding & visualization   
 
 ---
 
 ## 📦 **Deliverables**
-1. 🧹 **Cleaned Dataset** – Ready for analysis  
-2. 🧠 **Python Notebook** – Modular and well-documented scripts  
-3. 📉 **Interactive Visuals** – Charts that communicate insights clearly  
-4. 📄 **Report** – This structured summary of findings  
+1. 🧠 **Python Notebook** – Modular and well-documented scripts  
+2. 📉 **Interactive Visuals** – Charts that communicate insights clearly  
+3. 📄 **Report** – This structured summary of findings  
 
----
-
-Let me know if you'd like me to:
-- 📄 Generate this as a **PDF**
-- 🖼️ Create a **PowerPoint (PPT)** version with slides and your screenshots
-- 🧩 Embed your actual charts from the notebook or exported images
-
-Just say the word and I’ll package it up for you!
